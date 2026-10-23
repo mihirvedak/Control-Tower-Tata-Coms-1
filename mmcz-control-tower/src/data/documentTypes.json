@@ -1,0 +1,10 @@
+[
+  ["evr", "Export Verification Report", "MMCZ Laboratory"],
+  ["inv", "MMCZ Invoice", "Minera ERP"],
+  ["cd1", "Approved CD1", "RBZ CEPECS"],
+  ["boe", "Bill of Entry", "ZIMRA ASYCUDA"],
+  ["pl", "Packing List", "Producer"],
+  ["lic", "Export Licence", "MMCZ Licensing"],
+  ["coo", "Certificate of Origin", "Producer · ZNCC"],
+  ["cn", "Transport / Consignment Note", "Transporter"]
+]

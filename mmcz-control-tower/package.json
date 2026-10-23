@@ -1,0 +1,31 @@
+{
+  "name": "mmcz-control-tower",
+  "private": true,
+  "version": "1.0.0",
+  "description": "MMCZ Digital Consignment Control Tower",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "format": "prettier --write \"src/**/*.{js,jsx,json,css}\""
+  },
+  "dependencies": {
+    "@fontsource/caveat": "^5.3.0",
+    "@fontsource/ibm-plex-mono": "^5.3.0",
+    "@fontsource/ibm-plex-sans": "^5.3.0",
+    "@fontsource/manrope": "^5.3.0",
+    "html2canvas": "1.4.1",
+    "jspdf": "2.5.1",
+    "react": "18.3.1",
+    "react-dom": "18.3.1"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.7.0",
+    "prettier": "^3.3.3",
+    "vite": "^6.4.5"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

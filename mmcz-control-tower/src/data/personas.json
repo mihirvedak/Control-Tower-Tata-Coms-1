@@ -1,0 +1,100 @@
+{
+  "producer": {
+    "group": "producer",
+    "sub": "Maker",
+    "label": "Producer · Maker",
+    "user": "Tendai Moyo",
+    "title": "Export Coordinator",
+    "org": "PRD-0031",
+    "ext": 1,
+    "icon": "factory",
+    "blurb": "Declare exports, track consignments"
+  },
+  "checker": {
+    "group": "producer",
+    "sub": "Checker / Approver",
+    "label": "Producer · Checker",
+    "user": "Rumbidzai Chikore",
+    "title": "Export Compliance Lead",
+    "org": "PRD-0031",
+    "ext": 1,
+    "icon": "check2",
+    "blurb": "Approve declarations to MMCZ"
+  },
+  "coordinator": {
+    "group": "inspectorate",
+    "sub": "Coordinator",
+    "label": "Inspectorate · Coordinator",
+    "user": "Nyasha Dube",
+    "title": "Inspectorate Coordinator",
+    "org": "MMCZ Inspectorate",
+    "icon": "calendar",
+    "blurb": "Allocate inspection work"
+  },
+  "inspector": {
+    "group": "inspectorate",
+    "sub": "Field Inspector",
+    "label": "Inspectorate · Field Inspector",
+    "user": "Tinashe Ndlovu",
+    "title": "Field Inspector",
+    "org": "MMCZ Inspectorate",
+    "icon": "clip",
+    "blurb": "Inspect on site, tablet-first"
+  },
+  "lab": {
+    "group": "inspectorate",
+    "sub": "Laboratory / Assay",
+    "label": "Inspectorate · Laboratory",
+    "user": "Chipo Mapfumo",
+    "title": "Senior Assayer",
+    "org": "MMCZ Laboratory",
+    "icon": "flask",
+    "blurb": "Assay results and EVR"
+  },
+  "finance": {
+    "group": "finance",
+    "label": "MMCZ Finance",
+    "user": "Tapiwa Sibanda",
+    "title": "Invoice Officer",
+    "org": "MMCZ Finance",
+    "icon": "receipt",
+    "blurb": "Invoices through Minera ERP"
+  },
+  "compliance": {
+    "group": "compliance",
+    "label": "MMCZ Compliance",
+    "user": "Farai Mlambo",
+    "title": "Regulatory Compliance Officer",
+    "org": "MMCZ Compliance",
+    "icon": "bank",
+    "blurb": "CD1, Bill of Entry, clearance"
+  },
+  "executive": {
+    "group": "executive",
+    "label": "MMCZ Executive",
+    "user": "Kudakwashe Moyo",
+    "title": "General Manager, Operations",
+    "org": "MMCZ",
+    "icon": "chart",
+    "blurb": "Control tower and risk"
+  },
+  "customer": {
+    "group": "customer",
+    "label": "Customer / Agent",
+    "user": "Li Wei",
+    "title": "Import Manager",
+    "org": "hunan",
+    "ext": 1,
+    "icon": "globe",
+    "blurb": "Approved shipment documents"
+  },
+  "admin": {
+    "group": "admin",
+    "label": "Administration",
+    "user": "Douglas Chari",
+    "title": "Platform Administrator",
+    "org": "MMCZ IT",
+    "icon": "gear",
+    "blurb": "Users, rules, integrations"
+  }
+}

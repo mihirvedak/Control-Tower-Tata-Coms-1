@@ -1,0 +1,57 @@
+[
+  {
+    "name": "Tinashe Ndlovu",
+    "region": "Mashonaland East",
+    "base": "Harare",
+    "skills": ["LI", "FC"],
+    "skillTxt": "Lithium, ferrochrome",
+    "load": 0,
+    "cap": 3,
+    "avail": "Available",
+    "years": 11
+  },
+  {
+    "name": "Tafadzwa Gwaze",
+    "region": "Mashonaland East",
+    "base": "Harare",
+    "skills": ["LI"],
+    "skillTxt": "Lithium, spodumene",
+    "load": 3,
+    "cap": 3,
+    "avail": "Fully booked",
+    "years": 6
+  },
+  {
+    "name": "Munyaradzi Zvobgo",
+    "region": "Midlands",
+    "base": "Gweru",
+    "skills": ["FC", "AU"],
+    "skillTxt": "Ferrochrome, gold concentrate",
+    "load": 2,
+    "cap": 3,
+    "avail": "Available",
+    "years": 9
+  },
+  {
+    "name": "Blessing Nyathi",
+    "region": "Midlands",
+    "base": "Gweru",
+    "skills": ["FC"],
+    "skillTxt": "Ferrochrome, coal",
+    "load": 1,
+    "cap": 3,
+    "avail": "Available",
+    "years": 4
+  },
+  {
+    "name": "Lindiwe Mpofu",
+    "region": "Matabeleland South",
+    "base": "Bulawayo",
+    "skills": ["FC", "LI", "AU"],
+    "skillTxt": "Lithium, ferrochrome, gold",
+    "load": 0,
+    "cap": 3,
+    "avail": "On leave until 19 Oct",
+    "years": 14
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "l": "Inspection allocation",
+    "k": "req",
+    "actual": 4.2,
+    "target": 8
+  },
+  {
+    "l": "Assay & EVR",
+    "k": "assay",
+    "actual": 27,
+    "target": 36
+  },
+  {
+    "l": "Invoice (Minera ERP)",
+    "k": "inv",
+    "actual": 3.1,
+    "target": 4
+  },
+  {
+    "l": "CD1 (RBZ)",
+    "k": "cd1",
+    "actual": 52,
+    "target": 48
+  },
+  {
+    "l": "Bill of Entry (ZIMRA)",
+    "k": "boe",
+    "actual": 19,
+    "target": 24
+  },
+  {
+    "l": "Export clearance",
+    "k": "clr",
+    "actual": 6.5,
+    "target": 8
+  }
+]

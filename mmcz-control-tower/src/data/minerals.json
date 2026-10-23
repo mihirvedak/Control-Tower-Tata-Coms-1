@@ -1,0 +1,53 @@
+{
+  "LI": {
+    "code": "LI",
+    "name": "Lithium Sulphate",
+    "short": "Li₂SO₄",
+    "hs": "2833.29.00",
+    "grade": "Battery grade ≥ 99.5% Li₂SO₄",
+    "rate": 1850,
+    "pack": "Lined jumbo bags, 1 MT each",
+    "template": [
+      ["li2so4", "Li₂SO₄", "%", 99.5, 0.3],
+      ["li", "Lithium (Li)", "%", 12.6, 0.2],
+      ["na", "Sodium (Na)", "%", 0.05, 0.02],
+      ["ca", "Calcium (Ca)", "%", 0.02, 0.01],
+      ["fe", "Iron (Fe)", "ppm", 20, 10],
+      ["h2o", "Moisture", "%", 0.5, 0.2],
+      ["ins", "Insolubles", "%", 0.05, 0.02]
+    ]
+  },
+  "AU": {
+    "code": "AU",
+    "name": "Gold Concentrate",
+    "short": "Au conc.",
+    "hs": "2616.90.00",
+    "grade": "Gold concentrate ≥ 45 g/t Au",
+    "rate": 4200,
+    "pack": "Sealed bulk bags, 1.5 MT each",
+    "template": [
+      ["au", "Gold (Au)", "g/t", 45, 3],
+      ["ag", "Silver (Ag)", "g/t", 12, 2],
+      ["s", "Sulphur (S)", "%", 18, 2],
+      ["as", "Arsenic (As)", "%", 0.8, 0.3],
+      ["h2o", "Moisture", "%", 8, 1]
+    ]
+  },
+  "FC": {
+    "code": "FC",
+    "name": "High Carbon Ferrochrome",
+    "short": "HC FeCr",
+    "hs": "7202.41.00",
+    "grade": "HC FeCr 60–65% Cr",
+    "rate": 1650,
+    "pack": "Bulk bags, 1 MT each",
+    "template": [
+      ["cr", "Chromium (Cr)", "%", 62, 1.5],
+      ["si", "Silicon (Si)", "%", 2, 0.5],
+      ["c", "Carbon (C)", "%", 7.5, 0.5],
+      ["p", "Phosphorus (P)", "%", 0.025, 0.005],
+      ["s", "Sulphur (S)", "%", 0.03, 0.01],
+      ["size", "Sizing 10–100 mm", "% passing", 95, 3]
+    ]
+  }
+}

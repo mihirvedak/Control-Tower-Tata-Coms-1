@@ -1,0 +1,38 @@
+[
+  {
+    "k": "producer",
+    "label": "Producer",
+    "icon": "factory",
+    "roles": ["producer", "checker"]
+  },
+  {
+    "k": "inspectorate",
+    "label": "MMCZ Inspectorate",
+    "icon": "clip",
+    "roles": ["coordinator", "inspector", "lab"]
+  },
+  {
+    "k": "finance",
+    "label": "MMCZ Finance",
+    "icon": "receipt",
+    "roles": ["finance"]
+  },
+  {
+    "k": "compliance",
+    "label": "MMCZ Compliance",
+    "icon": "bank",
+    "roles": ["compliance"]
+  },
+  {
+    "k": "executive",
+    "label": "MMCZ Executive",
+    "icon": "chart",
+    "roles": ["executive"]
+  },
+  {
+    "k": "customer",
+    "label": "Customer / Agent",
+    "icon": "globe",
+    "roles": ["customer"]
+  }
+]

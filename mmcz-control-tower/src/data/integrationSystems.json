@@ -1,0 +1,6 @@
+{
+  "erp": ["Minera ERP", "ERP"],
+  "rbz": ["RBZ CEPECS", "RBZ"],
+  "zimra": ["ZIMRA ASYCUDA", "ZRA"],
+  "lims": ["MMCZ LIMS", "LAB"]
+}

@@ -1,0 +1,72 @@
+[
+  {
+    "k": "decl",
+    "name": "Declaration",
+    "owner": "Producer",
+    "team": "Producer",
+    "sla": 8
+  },
+  {
+    "k": "req",
+    "name": "Inspection Request",
+    "short": "Request",
+    "owner": "Inspectorate Coordinator",
+    "team": "MMCZ Inspectorate",
+    "sla": 8
+  },
+  {
+    "k": "insp",
+    "name": "Inspection",
+    "owner": "Field Inspector",
+    "team": "MMCZ Inspectorate",
+    "sla": 48
+  },
+  {
+    "k": "assay",
+    "name": "Assay",
+    "owner": "Laboratory",
+    "team": "MMCZ Laboratory",
+    "sla": 36
+  },
+  {
+    "k": "inv",
+    "name": "Invoice",
+    "owner": "Finance",
+    "team": "MMCZ Finance",
+    "sla": 4,
+    "sys": "Minera ERP"
+  },
+  {
+    "k": "cd1",
+    "name": "CD1",
+    "owner": "Compliance",
+    "team": "MMCZ Compliance",
+    "sla": 48,
+    "sys": "RBZ CEPECS"
+  },
+  {
+    "k": "boe",
+    "name": "Bill of Entry",
+    "short": "BOE",
+    "owner": "Compliance",
+    "team": "MMCZ Compliance",
+    "sla": 24,
+    "sys": "ZIMRA ASYCUDA"
+  },
+  {
+    "k": "clr",
+    "name": "Export Clearance",
+    "short": "Clearance",
+    "owner": "Compliance",
+    "team": "MMCZ Compliance",
+    "sla": 8
+  },
+  {
+    "k": "rel",
+    "name": "Document Release",
+    "short": "Release",
+    "owner": "Compliance",
+    "team": "MMCZ Compliance",
+    "sla": 4
+  }
+]

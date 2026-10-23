@@ -1,0 +1,38 @@
+{
+  "hunan": {
+    "id": "hunan",
+    "name": "Hunan Liyuan New Energy Co., Ltd",
+    "short": "Hunan Liyuan",
+    "country": "China",
+    "addr": "No. 18 Xingsha Industrial Park, Changsha, Hunan 410100, China",
+    "agent": "Bridgeview Clearing (Pvt) Ltd",
+    "contract": "SC-PLZ-HL"
+  },
+  "tianjin": {
+    "id": "tianjin",
+    "name": "Tianjin Meridian Metals Co., Ltd",
+    "short": "Tianjin Meridian",
+    "country": "China",
+    "addr": "88 Haibin Road, Binhai New Area, Tianjin 300450, China",
+    "agent": "Sable Freight & Clearing (Pvt) Ltd",
+    "contract": "SC-MFA-TM"
+  },
+  "gulf": {
+    "id": "gulf",
+    "name": "Gulf Precious Metals Refining FZE",
+    "short": "Gulf Precious Metals",
+    "country": "United Arab Emirates",
+    "addr": "Plot S30512, Jebel Ali Free Zone South, Dubai, UAE",
+    "agent": "Sable Freight & Clearing (Pvt) Ltd",
+    "contract": "SC-SGC-GP"
+  },
+  "rotterdam": {
+    "id": "rotterdam",
+    "name": "Rotterdam Alloy Traders B.V.",
+    "short": "Rotterdam Alloy",
+    "country": "Netherlands",
+    "addr": "Waalhaven Z.z. 41, 3089 JH Rotterdam, Netherlands",
+    "agent": "Sable Freight & Clearing (Pvt) Ltd",
+    "contract": "SC-LCS-RA"
+  }
+}

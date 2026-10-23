@@ -1,0 +1,58 @@
+{
+  "li": {
+    "nodes": ["Arcadia Mine", "Mutare", "Forbes/Machipanda", "Beira Port", "China"],
+    "border": "Forbes/Machipanda",
+    "office": "Forbes Border Post, Mutare",
+    "off": "FRB",
+    "port": "Beira, Mozambique",
+    "discharge": "Shanghai (Yangshan), China",
+    "mode": "Road to Beira, sea freight to Shanghai",
+    "transporter": "Trans-Zambezi Haulage (Pvt) Ltd",
+    "tcode": "TZH",
+    "vessel": "MV Kestrel Bay",
+    "line": "Indian Ocean Feeder Line",
+    "incoterm": "FOB Beira"
+  },
+  "fc": {
+    "nodes": ["Selukwe Smelter, Shurugwi", "Gweru", "Beitbridge", "Durban Port", "China"],
+    "border": "Beitbridge",
+    "office": "Beitbridge Border Post",
+    "off": "BBR",
+    "port": "Durban, South Africa",
+    "discharge": "Tianjin (Xingang), China",
+    "mode": "Road to Durban, sea freight to Tianjin",
+    "transporter": "Midlands Bulk Logistics (Pvt) Ltd",
+    "tcode": "MBL",
+    "vessel": "MV Cape Halcyon",
+    "line": "Southern Star Shipping",
+    "incoterm": "FOB Durban"
+  },
+  "au": {
+    "nodes": ["Shurugwi Concentrator", "Gweru", "Beitbridge", "Durban Port", "UAE"],
+    "border": "Beitbridge",
+    "office": "Beitbridge Border Post",
+    "off": "BBR",
+    "port": "Durban, South Africa",
+    "discharge": "Jebel Ali, United Arab Emirates",
+    "mode": "Road to Durban, sea freight to Jebel Ali",
+    "transporter": "Midlands Bulk Logistics (Pvt) Ltd",
+    "tcode": "MBL",
+    "vessel": "MV Arabian Crest",
+    "line": "Southern Star Shipping",
+    "incoterm": "FOB Durban"
+  },
+  "fc2": {
+    "nodes": ["Lalapanzi Plant", "Gweru", "Beitbridge", "Durban Port", "Netherlands"],
+    "border": "Beitbridge",
+    "office": "Beitbridge Border Post",
+    "off": "BBR",
+    "port": "Durban, South Africa",
+    "discharge": "Rotterdam, Netherlands",
+    "mode": "Road to Durban, sea freight to Rotterdam",
+    "transporter": "Midlands Bulk Logistics (Pvt) Ltd",
+    "tcode": "MBL",
+    "vessel": "MV Nordic Tern",
+    "line": "Southern Star Shipping",
+    "incoterm": "FOB Durban"
+  }
+}
